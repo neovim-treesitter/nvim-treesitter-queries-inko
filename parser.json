@@ -1,6 +1,6 @@
 {
-  "semver": true,
-  "parser_version": "v0.5.1",
   "lang": "inko",
-  "url": "https://github.com/inko-lang/tree-sitter-inko"
+  "url": "https://github.com/inko-lang/tree-sitter-inko",
+  "semver": true,
+  "parser_version": "v0.5.1"
 }
